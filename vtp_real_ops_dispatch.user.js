@@ -4,11 +4,11 @@
 // @version      1.0.0
 // @description  Injects a "Maintenance Notes" section after the "Route" section in the page.
 // @match        https://vamsys.io/phoenix/flight-center/booking/*
-// @updateURL    https://firebasestorage.googleapis.com/v0/b/vtp-scripts.appspot.com/o/vtp_real_ops_dispatch.user.js?alt=media&token=cf7de6c1-b2bf-4e7c-9576-dcdcc0317494
-// @downloadURL  https://firebasestorage.googleapis.com/v0/b/vtp-scripts.appspot.com/o/vtp_real_ops_dispatch.user.js?alt=media&token=cf7de6c1-b2bf-4e7c-9576-dcdcc0317494
+// @updateURL    https://github.com/ricardojmp/vTP-Scripts/raw/refs/heads/master/vtp_real_ops_dispatch.user.js
+// @downloadURL  https://github.com/ricardojmp/vTP-Scripts/raw/refs/heads/master/vtp_real_ops_dispatch.user.js
 // @grant        none
 // ==/UserScript==
-
+ 
 (function() {
     'use strict';
  

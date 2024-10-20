@@ -10,7 +10,7 @@
 // ==/UserScript==
 
 // Filter Dropdown, Welcome Message, Inject Text, Hide Jumpseat Button, Highlight Closest Departure Row, Show Flight Number
-
+ 
 (function() {
     'use strict';
  
