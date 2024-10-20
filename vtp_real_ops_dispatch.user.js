@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         vTP REAL OPS - DISPATCH
+// @namespace   Violentmonkey Scripts
 // @namespace    http://violentmonkey.net/
 // @version      1.0.1
 // @description  Injects a "Maintenance Notes" section after the "Route" section in the page.
