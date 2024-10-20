@@ -1,0 +1,358 @@
+{
+  "aircraft": [
+    {
+      "id": 1,
+      "registration": "CS-TTN",
+      "fleet": "A320",
+      "type": "A319-111"
+    },
+    {
+      "id": 2,
+      "registration": "CS-TTP",
+      "fleet": "A320",
+      "type": "A319-111"
+    },
+    {
+      "id": 3,
+      "registration": "CS-TTR",
+      "fleet": "A320",
+      "type": "A319-112"
+    },
+    {
+      "id": 4,
+      "registration": "CS-TTS",
+      "fleet": "A320",
+      "type": "A319-112"
+    },
+    {
+      "id": 5,
+      "registration": "CS-TMW",
+      "fleet": "A320",
+      "type": "A320-214"
+    },
+    {
+      "id": 6,
+      "registration": "CS-TNJ",
+      "fleet": "A320",
+      "type": "A320-214"
+    },
+    {
+      "id": 7,
+      "registration": "CS-TNK",
+      "fleet": "A320",
+      "type": "A320-214"
+    },
+    {
+      "id": 8,
+      "registration": "CS-TNL",
+      "fleet": "A320",
+      "type": "A320-214"
+    },
+    {
+      "id": 9,
+      "registration": "CS-TNM",
+      "fleet": "A320",
+      "type": "A320-214"
+    },
+    {
+      "id": 10,
+      "registration": "CS-TNN",
+      "fleet": "A320",
+      "type": "A320-214"
+    },
+    {
+      "id": 11,
+      "registration": "CS-TNQ",
+      "fleet": "A320",
+      "type": "A320-214"
+    },
+    {
+      "id": 12,
+      "registration": "CS-TNR",
+      "fleet": "A320",
+      "type": "A320-214"
+    },
+    {
+      "id": 13,
+      "registration": "CS-TNS",
+      "fleet": "A320",
+      "type": "A320-214"
+    },
+    {
+      "id": 14,
+      "registration": "CS-TNT",
+      "fleet": "A320",
+      "type": "A320-214"
+    },
+    {
+      "id": 15,
+      "registration": "CS-TNU",
+      "fleet": "A320",
+      "type": "A320-214"
+    },
+    {
+      "id": 16,
+      "registration": "CS-TNV",
+      "fleet": "A320",
+      "type": "A320-214"
+    },
+    {
+      "id": 17,
+      "registration": "CS-TNW",
+      "fleet": "A320",
+      "type": "A320-214"
+    },
+    {
+      "id": 18,
+      "registration": "CS-TNX",
+      "fleet": "A320",
+      "type": "A320-214"
+    },
+    {
+      "id": 19,
+      "registration": "CS-TNY",
+      "fleet": "A320",
+      "type": "A320-214"
+    },
+    {
+      "id": 20,
+      "registration": "CS-TVA",
+      "fleet": "A320",
+      "type": "A320-251N"
+    },
+    {
+      "id": 21,
+      "registration": "CS-TVB",
+      "fleet": "A320",
+      "type": "A320-251N"
+    },
+    {
+      "id": 22,
+      "registration": "CS-TVC",
+      "fleet": "A320",
+      "type": "A320-251N"
+    },
+    {
+      "id": 23,
+      "registration": "CS-TVD",
+      "fleet": "A320",
+      "type": "A320-251N"
+    },
+    {
+      "id": 24,
+      "registration": "CS-TVE",
+      "fleet": "A320",
+      "type": "A320-251N"
+    },
+    {
+      "id": 25,
+      "registration": "CS-TVF",
+      "fleet": "A320",
+      "type": "A320-251N"
+    },
+    {
+      "id": 26,
+      "registration": "CS-TVG",
+      "fleet": "A320",
+      "type": "A320-251N"
+    },
+    {
+      "id": 27,
+      "registration": "CS-TVH",
+      "fleet": "A320",
+      "type": "A320-251N"
+    },
+    {
+      "id": 28,
+      "registration": "CS-TVI",
+      "fleet": "A320",
+      "type": "A320-251N EU"
+    },
+    {
+      "id": 29,
+      "registration": "CS-TVJ",
+      "fleet": "A320",
+      "type": "A320-251N EU"
+    },
+    {
+      "id": 30,
+      "registration": "CS-TJE",
+      "fleet": "A320",
+      "type": "A321-211"
+    },
+    {
+      "id": 31,
+      "registration": "CS-TJF",
+      "fleet": "A320",
+      "type": "A321-211"
+    },
+    {
+      "id": 32,
+      "registration": "CS-TJH",
+      "fleet": "A320",
+      "type": "A321-211"
+    },
+    {
+      "id": 33,
+      "registration": "CS-TJI",
+      "fleet": "A320",
+      "type": "A321-251N"
+    },
+    {
+      "id": 34,
+      "registration": "CS-TJJ",
+      "fleet": "A320",
+      "type": "A321-251N"
+    },
+    {
+      "id": 35,
+      "registration": "CS-TJK",
+      "fleet": "A320",
+      "type": "A321-251N"
+    },
+    {
+      "id": 36,
+      "registration": "CS-TJL",
+      "fleet": "A320",
+      "type": "A321-251N"
+    },
+    {
+      "id": 37,
+      "registration": "CS-TJM",
+      "fleet": "A320",
+      "type": "A321-251N"
+    },
+    {
+      "id": 38,
+      "registration": "CS-TJN",
+      "fleet": "A320",
+      "type": "A321-251N"
+    },
+    {
+      "id": 39,
+      "registration": "CS-TJO",
+      "fleet": "A320",
+      "type": "A321-251NX"
+    },
+    {
+      "id": 40,
+      "registration": "CS-TJP",
+      "fleet": "A320",
+      "type": "A321-251NX"
+    },
+    {
+      "id": 41,
+      "registration": "CS-TJQ",
+      "fleet": "A320",
+      "type": "A321-251NX"
+    },
+    {
+      "id": 42,
+      "registration": "CS-TJR",
+      "fleet": "A320",
+      "type": "A321-251NX"
+    },
+    {
+      "id": 43,
+      "registration": "CS-TXA",
+      "fleet": "A320",
+      "type": "A321-251NX LR"
+    },
+    {
+      "id": 44,
+      "registration": "CS-TXB",
+      "fleet": "A320",
+      "type": "A321-251NX LR"
+    },
+    {
+      "id": 45,
+      "registration": "CS-TXC",
+      "fleet": "A320",
+      "type": "A321-251NX LR"
+    },
+    {
+      "id": 46,
+      "registration": "CS-TXD",
+      "fleet": "A320",
+      "type": "A321-251NX LR"
+    },
+    {
+      "id": 47,
+      "registration": "CS-TXE",
+      "fleet": "A320",
+      "type": "A321-251NX LR"
+    },
+    {
+      "id": 48,
+      "registration": "CS-TXF",
+      "fleet": "A320",
+      "type": "A321-251NX LR"
+    },
+    {
+      "id": 49,
+      "registration": "CS-TXG",
+      "fleet": "A320",
+      "type": "A321-251NX LR"
+    },
+    {
+      "id": 50,
+      "registration": "CS-TVK",
+      "fleet": "A320",
+      "type": "A320-251N EU"
+    },
+    {
+      "id": 51,
+      "registration": "CS-TXH",
+      "fleet": "A320",
+      "type": "A321-251NX LR"
+    },
+    {
+      "id": 52,
+      "registration": "CS-TXI",
+      "fleet": "A320",
+      "type": "A321-251NX LR"
+    },
+    {
+      "id": 53,
+      "registration": "CS-TXJ",
+      "fleet": "A320",
+      "type": "A321-251NX LR"
+    },
+    {
+      "id": 54,
+      "registration": "CS-TXL",
+      "fleet": "A320",
+      "type": "A321-251NX LR"
+    },
+    {
+      "id": 55,
+      "registration": "CS-TXK",
+      "fleet": "A320",
+      "type": "A321-251NX LR"
+    },
+    {
+      "id": 56,
+      "registration": "CS-TVL",
+      "fleet": "A320",
+      "type": "A321-251NX LR"
+    },
+    {
+      "id": 57,
+      "registration": "CS-TVM",
+      "fleet": "A320",
+      "type": "A321-251NX LR"
+    },
+    {
+      "id": 58,
+      "registration": "CS-TVN",
+      "fleet": "A320",
+      "type": "A321-251NX LR"
+    },
+    {
+      "id": 59,
+      "registration": "CS-TXM",
+      "fleet": "A320",
+      "type": "A321-251NX LR"
+    }
+  ]
+}
