@@ -1,10 +1,11 @@
 // ==UserScript==
-// @name         vTP REAL OPERATIONS - MAIN
-// @namespace    Violentmonkey Scripts
-// @version      1.0.0   // Updated version number
-// @description  Filter dropdown items, show welcome message, inject "REAL OPERATIONS MODE" into dropdown, hide the Jumpseat button, customizable welcome message, button to refresh dropdown, highlight selected item, highlight closest departure row, show flight number for closest departure time and display them as bold text with custom color in the existing cells of the row.
+// @name        vTP REAL OPERATIONS - MAIN
+// @namespace   Violentmonkey Scripts
 // @match        https://vamsys.io/*
-// @grant        none
+// @grant       none
+// @version     1.0
+// @author      Ricardo vTP
+// @description Adds realistic operations to vTP Vamsys dashboard
 // @updateURL    https://github.com/ricardojmp/vTP-Scripts/raw/refs/heads/master/vtp_real_ops_main.user.js
 // @downloadURL  https://github.com/ricardojmp/vTP-Scripts/raw/refs/heads/master/vtp_real_ops_main.user.js
 // ==/UserScript==
