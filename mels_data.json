@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "MEL": "32-42-01A",
+        "MEL Name": "Main Wheel Brake INOP",
+        "Reference Table": [
+            "C",
+            "4",
+            "3",
+            "Yes"
+        ],
+        "Actions": "One may be inoperative provided that: 1) The nose wheel steering is operative, and 2) Both thrust reversers are operative, and 3) The green and yellow systems are operative on operative brakes, and 4) The affected brake is deactivated or removed, and 5) The runway width at departure and arrival airports is at least 45 m, and 6) The Flight Manual performance penalties are applied, and 7) The AUTO/BRK function is considered inoperative.",
+        "Notes": "Note: CAT III DUAL is not available."
+    },
+    {
+        "id": 2,
+        "MEL": "34-06-07A",
+        "MEL Name": "Chrono Indication on the ND CM2 INOP",
+        "Reference Table": [
+            "C",
+            "2",
+            "0",
+            "No"
+        ],
+        "Actions": "One or both may be inoperative provided.",
+        "Notes": ""
+    },
+    {
+        "id": 3,
+        "MEL": "34-10-04B",
+        "MEL Name": "IR 1 INOP",
+        "Reference Table": [
+            "C",
+            "1",
+            "0",
+            "Yes"
+        ],
+        "Actions": "The NAV mode may be inoperative provided that: 1) The IR 1 is operated in ATT mode, and 2) The IR 2 and IR 3 are operative, and 3) The GPS 1 is operative, and 4) The Predictive GPWS Functions are considered inoperative.",
+        "Notes": "CAT III DUAL is not available."
+    },
+    {
+        "id": 4,
+        "MEL": "34-10-03A",
+        "MEL Name": "ADR 3 INOP",
+        "Reference Table": [
+            "C",
+            "1",
+            "0",
+            "Yes"
+        ],
+        "Actions": "May be inoperative provided that the IR 1, IR 2, ADR 1 and ADR 2 are operative.",
+        "Notes": "CAT III DUAL is not available."
+    },
+    {
+        "id": 5,
+        "MEL": "34-11-01A",
+        "MEL Name": "Angle of Attack (AOA) Sensor FO Side INOP",
+        "Reference Table": [
+            "C",
+            "3",
+            "2",
+            "No"
+        ],
+        "Actions": "The F/O or the STBY Angle Of Attack sensor may be inoperative provided that the associated ADR is considered inoperative.",
+        "Notes": ""
+    },
+    {
+        "id": 6,
+        "MEL": "34-23-04B",
+        "MEL Name": "Angle of Attack (AOA) Sensor FO Side INOP",
+        "Reference Table": [
+            "B",
+            "1",
+            "0",
+            "No"
+        ],
+        "Actions": "May be inoperative provided that the aircraft is operated in day VMC conditions.",
+        "Notes": "Maximum landing capability is CAT 1."
+    },
+    {
+        "id": 7,
+        "MEL": "34-30-04A",
+        "MEL Name": "ILS 1 INOP",
+        "Reference Table": [
+            "C",
+            "2",
+            "1",
+            "No"
+        ],
+        "Actions": "ILS 1 may be inoperative provided that: 1) The GPWS G/S basic mode (mode 5) is considered inoperative, and 2) ISIS ILS indication is considered inoperative.",
+        "Notes": ""
+    },
+    {
+        "id": 8,
+        "MEL": "34-40-04A",
+        "MEL Name": "Radio Altimeter System 1 INOP",
+        "Reference Table": [
+            "C",
+            "2",
+            "1",
+            "No"
+        ],
+        "Actions": "One may be inoperative provided that both FCU channels, all ELACs, SECs, ADIRUs, SFCCs, LGCIUs and FACs are operative.",
+        "Notes": "When the radio altimeter 1 is inoperative, the GPWS basic modes are considered inoperative."
+    }
+]
