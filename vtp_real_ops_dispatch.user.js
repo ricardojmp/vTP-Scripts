@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         vTP REAL OPS - DISPATCH
 // @namespace    http://violentmonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @description  Injects a "Maintenance Notes" section after the "Route" section in the page.
 // @match        https://vamsys.io/phoenix/flight-center/booking/*
 // @updateURL    https://github.com/ricardojmp/vTP-Scripts/raw/refs/heads/master/vtp_real_ops_dispatch.user.js
