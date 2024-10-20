@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match        https://vamsys.io/*
 // @grant       none
-// @version     1.0
+// @version     1.0.1
 // @author      Ricardo vTP
 // @description Adds realistic operations to vTP Vamsys dashboard
 // @updateURL    https://github.com/ricardojmp/vTP-Scripts/raw/refs/heads/master/vtp_real_ops_main.user.js
